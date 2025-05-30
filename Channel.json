@@ -1,0 +1,27 @@
+{
+    "version": "1.2",
+    "message": "New channels added! Update now for the latest content.",
+    "channels": [
+    {
+        "name": "Kapamilya HD",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "Kapamilya SD",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "GMA 7 (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "GTV (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    }
+]
+
+}
