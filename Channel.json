@@ -1,6 +1,6 @@
 {
-    "version": "2.0",
-    "message": "New channels added! Update now for the latest content.\n\n sorry for waiting guys medyo na wawalan kasi ako time sa pag build medyo busy but thank for supporting IPTV APP NI MARK\n\n update nyo na guys and samat sa mga nag download pag wala dito yung favorite iptv channels nyo check iptv web\n Paki download po uli tong app link: https://www.mediafire.com/file/oqk7ljs1kv4ahu2/iptvradio.apk/file",
+    "version": "2.1",
+    "message": "New channels added! Update now for the latest content.\n\nNew Add kids channels\n\nsorry for waiting guys medyo na wawalan kasi ako time sa pag build medyo busy but thank for supporting IPTV APP NI MARK\n\n update nyo na guys and samat sa mga nag download pag wala dito yung favorite iptv channels nyo check iptv web\n Paki download po uli tong app link: https://www.mediafire.com/file/oqk7ljs1kv4ahu2/iptvradio.apk/file",
     "channels": [
     {
         "name": "Kapamilya HD",
@@ -208,7 +208,84 @@
       "name": "SPOTV HD (CON)",
       "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001133/manifest.mpd?virtualDomain=001.live_hls.zte.com",
       "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+        
+    {
+        "name": "DISNEY CHANNEL",
+        "streamUrl": "https://dash2.antik.sk/stream/hisi_disney_channel/playlist_cbcs.mpd",
+        "licenseUrl": "https://drm.antik.sk/widevine/key"
+    },
+    {
+        "name": "DISNEY JR.",
+        "streamUrl": "https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd",
+        "licenseUrl": "https://drm.antik.sk/widevine/key"
+    },
+    {
+        "name": "CARTOON NETWORK",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001178/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "CARTOONITO",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "NICK JR",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001215/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "MYX",
+        "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "ROCK TV MANILA",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001177/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "DISCOVERY CHANNEL",
+        "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001194/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "HISTORY2",
+        "streamUrl": "https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd",
+        "licenseUrl": "https://drm.antik.sk/widevine/key"
+    },
+    {
+        "name": "METRO CHANNEL",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001267/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "TLC",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001181/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "KBS KOREA",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001246/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "CGTN DOCUMENTARY",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001110/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "CCTV4",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001223/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "PREMIER FOOTBALL",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
     }
+    
         
 ]
 
