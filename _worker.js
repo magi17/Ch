@@ -13,7 +13,7 @@ export default {
 
     // Block unauthorized requests
     if (!isAuthorized) {
-      return new Response("Unauthorized: This endpoint is restricted to 'com.markprojects.tv2'.", {
+      return new Response("Unauthorized: This endpoint is restricted.🖕🖕🖕🖕", {
         status: 418, // HTTP 418 I'm a teapot (or use 401/403)
         headers: { "Content-Type": "text/plain" },
       });
