@@ -1,16 +1,213 @@
 {
-    "version": 1.0,
-    "message": "New channels added on June 7, 2025!",
+    "version": 1.1,
+    "message": "New channels added on June 7, 2025!\n\nNew app created by: Mark Martinez\n\nThank you for downloading my app",
     "channels": [
-        {
-            "name": "Channel 1",
-            "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com",
-            "licenseUrl": "http://143.44.136.110:6910/license"
-        },
-        {
-            "name": "Channel 2",
-            "streamUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
-            "licenseUrl": ""
-        }
-    ]
+    {
+        "name": "Kapamilya HD",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "Kapamilya SD",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "GMA 7 (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "GTV (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "TELERADYO (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001249/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "ANC HD (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001274/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "MYX PHILIPPINES (CON)",
+      "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "ALL TV",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "BILYONARYO CHANNEL (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001124/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "TV5 HD (CON)",
+      "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001088/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "A2Z (CON)",
+      "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001087/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "NET25 (CON)",
+      "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "UNTV (CON)",
+      "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "PTV4 (CON)",
+      "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001086/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "DZRH TV (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "KNOWLEDGE CHANNELS (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001340/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "ALIW CHANNEL 23 (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "CLTV 36",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001314/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "SPOTLIGHT TV",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001134/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "RJ TV",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001338/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "RJTV 29",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001159/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "LACH TV",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001154/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "ONE MEDIA",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001234/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    
+    {
+      "name": "ONE PH (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001198/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "ONE SPORTS (CON)",
+      "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001083/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "CINEMAX (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001108/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "HBO (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001065/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "HBO HITS (CON)",
+      "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001284/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "HBO SIGNATURE (CON)",
+      "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001285/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "THRILL (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001253/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "SOLARFLIX",
+      "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001243/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "JEEPNEY TV",
+      "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "TVN PREMIUM HD",
+      "streamUrl": "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd",
+      "licenseUrl": "e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10"
+    },
+    {
+      "name": "AXN CHANNEL (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001182/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "NBA TV PH (CON)",
+      "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001064/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "RPTV (CON)",
+      "streamUrl": "http://143.44.136.112:6910/001/2/ch00000090990000001094/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    
+    {
+      "name": "PINOY XTREAM CHANNEL",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001098/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "SOLAR SPORTS",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "SLA JUNIOR",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001324/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "PREMIER FOOTBALL",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "m3u8",
+      "streamUrl": "https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8",
+      "licenseUrl": ""
+    }
+]
 }
