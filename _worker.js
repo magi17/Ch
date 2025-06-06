@@ -2,7 +2,7 @@
 export default {
   async fetch(request, env) {
     // GitHub Raw URL for channels.json (replace with your file path)
-    const GITHUB_RAW_URL = "https://raw.githubusercontent.com/{USERNAME}/{REPO}/{BRANCH}/channels.json";
+    const GITHUB_RAW_URL = "https://raw.githubusercontent.com/magi17/Ch/refs/heads/main/channels.json";
 
     try {
       // Fetch the JSON file from GitHub
