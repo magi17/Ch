@@ -13,7 +13,7 @@ export default {
 
     // Block unauthorized requests
     if (!isAuthorized) {
-      return new Response("Unauthorized: This endpoint is restricted.🖕🖕🖕🖕", {
+      return new Response("Unauthorized: This endpoint is restricted.\n\nFuck you ka HAHAHAHAHAH", {
         status: 418, // HTTP 418 I'm a teapot (or use 401/403)
         headers: { "Content-Type": "text/plain" },
       });
