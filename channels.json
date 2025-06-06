@@ -1,0 +1,16 @@
+{
+    "version": 1.0,
+    "message": "New channels added on June 7, 2025!",
+    "channels": [
+        {
+            "name": "Channel 1",
+            "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+            "licenseUrl": "http://143.44.136.110:6910/license"
+        },
+        {
+            "name": "Channel 2",
+            "streamUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+            "licenseUrl": ""
+        }
+    ]
+}
