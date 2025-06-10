@@ -1,6 +1,6 @@
 {
     "version": "2.1",
-    "message": "New channels added! Update now for the latest content.\n\nNew Add kids channels\n\nsorry for waiting guys medyo na wawalan kasi ako time sa pag build medyo busy but thank for supporting IPTV APP NI MARK\n\n update nyo na guys and samat sa mga nag download pag wala dito yung favorite iptv channels nyo check iptv web\n Paki download po uli tong app link: https://www.mediafire.com/file/oqk7ljs1kv4ahu2/iptvradio.apk/file",
+    "message": "New channels added! Update now for the latest content.\n\nNew Add TMC AND CINEMO\n\nsorry for waiting guys medyo na wawalan kasi ako time sa pag build medyo busy but thank for supporting IPTV APP NI MARK\n\n update nyo na guys and samat sa mga nag download pag wala dito yung favorite iptv channels nyo check iptv web\n Paki download po uli tong app link: https://www.mediafire.com/file/oqk7ljs1kv4ahu2/iptvradio.apk/file",
     "channels": [
     {
         "name": "Kapamilya HD",
@@ -60,6 +60,16 @@
     {
       "name": "NET25 (CON)",
       "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+        {
+      "name": "TMC",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001080/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "CINEMO",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com",
       "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
     },
     {
@@ -138,11 +148,7 @@
       "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001065/manifest.mpd?virtualDomain=001.live_hls.zte.com",
       "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
     },
-    {
-      "name": "HBO HITS (CON)",
-      "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001284/manifest.mpd?virtualDomain=001.live_hls.zte.com",
-      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
-    },
+    
     {
       "name": "HBO SIGNATURE (CON)",
       "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001285/manifest.mpd?virtualDomain=001.live_hls.zte.com",
