@@ -1,7 +1,7 @@
 {
-    "version": 1.1,
-    "message": "New channels added on June 7, 2025!\n\nNew app created by: Mark Martinez\n\nThank you for downloading my app",
-    "channels": [
+    "version": 1.2,
+    "message": "New channels added on June 10, 2025!\n\nNew app created by: Mark Martinez\n\nThank you for downloading my app\n\nNew added TMC AND CINEMO",
+    "channels":[
     {
         "name": "Kapamilya HD",
         "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com",
@@ -60,6 +60,16 @@
     {
       "name": "NET25 (CON)",
       "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+        {
+      "name": "TMC",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001080/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+      "name": "CINEMO",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com",
       "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
     },
     {
@@ -138,11 +148,7 @@
       "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001065/manifest.mpd?virtualDomain=001.live_hls.zte.com",
       "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
     },
-    {
-      "name": "HBO HITS (CON)",
-      "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001284/manifest.mpd?virtualDomain=001.live_hls.zte.com",
-      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
-    },
+    
     {
       "name": "HBO SIGNATURE (CON)",
       "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001285/manifest.mpd?virtualDomain=001.live_hls.zte.com",
@@ -205,9 +211,93 @@
       "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
     },
     {
-      "name": "m3u8",
+      "name": "SPOTV HD (CON)",
+      "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001133/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+      "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+        
+    {
+        "name": "DISNEY CHANNEL",
+        "streamUrl": "https://dash2.antik.sk/stream/hisi_disney_channel/playlist_cbcs.mpd",
+        "licenseUrl": "https://drm.antik.sk/widevine/key"
+    },
+    {
+        "name": "DISNEY JR.",
+        "streamUrl": "https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd",
+        "licenseUrl": "https://drm.antik.sk/widevine/key"
+    },
+    {
+        "name": "CARTOON NETWORK",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001178/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "CARTOONITO",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "NICK JR",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001215/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "MYX",
+        "streamUrl": "http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "ROCK TV MANILA",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001177/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "DISCOVERY CHANNEL",
+        "streamUrl": "http://143.44.136.113:6910/001/2/ch00000090990000001194/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "HISTORY2",
+        "streamUrl": "https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd",
+        "licenseUrl": "https://drm.antik.sk/widevine/key"
+    },
+    {
+        "name": "METRO CHANNEL",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001267/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "TLC",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001181/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "KBS KOREA",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001246/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "CGTN DOCUMENTARY",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001110/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "CCTV4",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001223/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+    {
+        "name": "PREMIER FOOTBALL",
+        "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com",
+        "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00"
+    },
+        {
+      "name": "m3u8(test dzbb)",
       "streamUrl": "https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8",
       "licenseUrl": ""
-    }
-]
+        }
+    
+        
+]    
+
 }
