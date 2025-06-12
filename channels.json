@@ -294,6 +294,11 @@
       "licenseUrl": "",
       "name": "TFC ASIA (Test M3U8)",
       "streamUrl": "https://tfc.mark-projects.site/tfcasia.m3u8"
+    },
+    {
+      "licenseUrl": "https://widevine-proxy.api.cignal.firstlight.ai/getlicense?service\u003dcignal\u0026version\u003d1.0\u0026kid\u003d0559C954-96D4-4FAD-B941-05B9176C3579\u0026ptoken\u003deyJjb250ZW50SWQiOiIwNTU5Qzk1NC05NkQ0LTRGQUQtQjk0MS0wNUI5MTc2QzM1NzkiLCJsaWNlbnNlRXhwaXJ5VGltZSI6MTc0OTc1MzU5MjY1NCwiZW50aXRsZWRDb250ZW50SWRzIjoiTURVMU9VTTVOVFF0T1RaRU5DMDBSa0ZFTFVJNU5ERXRNRFZDT1RFM05rTXpOVGM1IiwibWF4VXNlcyI6MSwic2lnbmF0dXJlIjoiMzUxOWNkNWYwMDZmNTc3ODk4M2UzODU1ODgyMDQxYTRkNWI3M2Y1ZDdmY2NjMTY3MTIyMWY1OGEyMDFhZjc3NSIsInVuaXF1ZUlkIjoiNTU0ZDQ0MTUtNDk5OS00NzdmLTk4NDQtOGVkYjIzYTc3ZWNlIiwiaXNzdWVyIjoiU0lHTktFWV9QVE9LRU5fQ09OU1VNRV9JU1NVRVIiLCJhcGlLZXkiOiJhcGlLZXkiLCJrZXlWZXJzaW9uIjoidmVyczAxIiwiZXhwaXJ5VGltZSI6MTc0OTcxMDQ1MjY1NCwiY3JlYXRlZFRpbWUiOjE3NDk3MTAzOTI2NTQsInRva2VuTW9kZWxWZXJzaW9uIjoiVjMifQ\u003d\u003d",
+      "name": "TEST 1",
+      "streamUrl": "https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd"
     }
   ],
   "message": "New channels added on June 10, 2025!\n\nNew app created by: Mark Martinez\n\nThank you for downloading my app\n\nNew added TMC AND CINEMO",
