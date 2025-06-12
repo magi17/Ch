@@ -302,9 +302,9 @@
       "licenseUrl": ""
     },
     {    
-      "name": "TEST 1",
-      "streamUrl": "https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd",
-      "licenseUrl": "https://widevine-proxy.api.cignal.firstlight.ai/getlicense?service=cignal&version=1.0&kid=0559C954-96D4-4FAD-B941-05B9176C3579&ptoken=eyJjb250ZW50SWQiOiIwNTU5Qzk1NC05NkQ0LTRGQUQtQjk0MS0wNUI5MTc2QzM1NzkiLCJsaWNlbnNlRXhwaXJ5VGltZSI6MTc0OTc1MzU5MjY1NCwiZW50aXRsZWRDb250ZW50SWRzIjoiTURVMU9VTTVOVFF0T1RaRU5DMDBSa0ZFTFVJNU5ERXRNRFZDT1RFM05rTXpOVGM1IiwibWF4VXNlcyI6MSwic2lnbmF0dXJlIjoiMzUxOWNkNWYwMDZmNTc3ODk4M2UzODU1ODgyMDQxYTRkNWI3M2Y1ZDdmY2NjMTY3MTIyMWY1OGEyMDFhZjc3NSIsInVuaXF1ZUlkIjoiNTU0ZDQ0MTUtNDk5OS00NzdmLTk4NDQtOGVkYjIzYTc3ZWNlIiwiaXNzdWVyIjoiU0lHTktFWV9QVE9LRU5fQ09OU1VNRV9JU1NVRVIiLCJhcGlLZXkiOiJhcGlLZXkiLCJrZXlWZXJzaW9uIjoidmVyczAxIiwiZXhwaXJ5VGltZSI6MTc0OTcxMDQ1MjY1NCwiY3JlYXRlZFRpbWUiOjE3NDk3MTAzOTI2NTQsInRva2VuTW9kZWxWZXJzaW9uIjoiVjMifQ=="
+      "name": "VIVA CINEMA",
+      "streamUrl": "http://ott.udptv.net/stream/iptv/vivacinema/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+      "licenseUrl": ""
     }
         
 ]    
