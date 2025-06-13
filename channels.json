@@ -1,5 +1,5 @@
 {
-    "version": 2.3,
+    "version": 2.4,
     "message": "NEW UPDATE JUN 13 2025\n\nNEW ADDED CHANNES PBB LIVE AND ANIMAX",
     "channels":[
     {
@@ -363,7 +363,7 @@
     },
     {  
       "name": "ANIMAX",
-      "streamUrl": "http://ott.udptv.net/stream/iptv/animax/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
+      "streamUrl": "https://ott.udptv.net/stream/iptv/animax/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7",
       "licenseUrl": "",
         "icon": "https://static.wikia.nocookie.net/fic5689/images/c/c7/Animax_HD_Luxemgary_2022.png/revision/latest?cb=20221202220353"
     }
