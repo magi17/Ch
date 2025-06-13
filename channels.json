@@ -12,7 +12,7 @@
         "name": "Kapamilya SD",
         "streamUrl": "http://143.44.136.110:6910/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com",
         "licenseUrl": "http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00",
-        "icon": ""
+        "icon": "https://www.rappler.com/tachyon/r3-assets/3E8CFD536445453C9575551922F68F49/img/FAB93EF5D0DF4FD6BE017B76302A75BD/Kapamilya_Channel_logo.jpg"
     },
     {
       "name": "GMA 7 (CON)",
